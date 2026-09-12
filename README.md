@@ -46,4 +46,75 @@ This repository documents my learning progress, practical exercises, notes, and 
 
 ---
 
-**Learning → Practicing → Building → Improving**
+**Learning → Practicing → Building → Improving** 
+# AI Fundamentals
+
+This folder contains my learning progress in Artificial Intelligence through Microsoft Learn.
+
+## Module 1 — Introduction to AI Concepts
+
+**Status:** Completed ✅
+
+### What I learned
+- What Artificial Intelligence (AI) is
+- Machine Learning (ML)
+- Deep Learning
+- Computer Vision
+- Natural Language Processing (NLP)
+- Responsible AI
+
+### Assessment
+✅ Module assessment passed
+
+---
+
+## Module 2 — Introduction to Generative AI and Agents
+
+**Status:** Completed ✅
+
+### What I learned
+- Generative AI
+- Large Language Models (LLMs)
+- Small Language Models (SLMs)
+- Tokenization
+- Transformers
+- Attention
+- Embeddings
+- Prompt-based generation
+- Retrieval-Augmented Generation (RAG)
+- AI agents
+
+### Assessment
+✅ Module assessment passed
+
+---
+
+## Module 3 — Introduction to Natural Language Processing Concepts
+
+**Status:** Completed ✅
+
+### Topics Learned
+- Natural Language Processing (NLP)
+- Text normalization
+- Stop word removal
+- N-grams
+- Stemming
+- Lemmatization
+- Parts of Speech (POS) tagging
+- Frequency analysis
+- TF-IDF
+- Bag-of-Words
+- TextRank
+- Embeddings
+- Semantic similarity
+- Cosine similarity
+- Vector representations
+- Named Entity Recognition (NER)
+- Text classification
+- Text summarization
+
+**Assessment:** Passed ✅
+
+### Key Learning
+
+I learned how NLP processes human language and how text can be represented as vectors and analyzed using techniques such as TF-IDF, embeddings, semantic similarity, and text classification.
