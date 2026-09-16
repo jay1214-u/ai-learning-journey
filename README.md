@@ -118,3 +118,36 @@ This folder contains my learning progress in Artificial Intelligence through Mic
 ### Key Learning
 
 I learned how NLP processes human language and how text can be represented as vectors and analyzed using techniques such as TF-IDF, embeddings, semantic similarity, and text classification.
+---
+
+## Module 4 — Introduction to AI Speech Concepts
+
+**Status:** Completed ✅
+
+### Topics Learned
+- Speech recognition (Speech-to-Text)
+- Speech synthesis (Text-to-Speech)
+- Speech-enabled AI solutions
+- Audio capture and digital sampling
+- Pre-processing
+- MFCC feature extraction
+- Acoustic modeling
+- Phonemes
+- Language modeling
+- Decoding and beam search
+- Post-processing
+- Text normalization
+- Linguistic analysis
+- Grapheme-to-phoneme (G2P) conversion
+- Prosody generation
+- Pitch, duration, intensity, pauses, and stress
+- Mel-spectrograms
+- Neural vocoders
+- Speech synthesis pipeline
+- Speech solution considerations: audio quality, language/dialect, privacy, latency, and accessibility
+
+**Assessment:** Passed ✅
+
+### Key Learning
+
+I learned how AI speech systems convert speech into text and text into natural-sounding speech. I also learned how speech recognition uses audio processing, acoustic modeling, language modeling, decoding, and post-processing, while speech synthesis uses text normalization, linguistic analysis, prosody generation, acoustic modeling, and neural vocoders to generate spoken audio.
