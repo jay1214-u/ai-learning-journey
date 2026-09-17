@@ -151,3 +151,37 @@ I learned how NLP processes human language and how text can be represented as ve
 ### Key Learning
 
 I learned how AI speech systems convert speech into text and text into natural-sounding speech. I also learned how speech recognition uses audio processing, acoustic modeling, language modeling, decoding, and post-processing, while speech synthesis uses text normalization, linguistic analysis, prosody generation, acoustic modeling, and neural vocoders to generate spoken audio.
+---
+
+## Module 5 — Introduction to Computer Vision Concepts
+
+**Status:** Completed ✅
+
+### Topics Learned
+- Computer vision fundamentals
+- Image classification
+- Object detection
+- Semantic segmentation
+- Contextual image analysis
+- Image pixels and resolution
+- Grayscale and RGB images
+- Image processing and filters
+- Convolution and filter kernels
+- Edge detection
+- Convolutional neural networks (CNNs)
+- Feature maps and pooling
+- Softmax and image classification
+- Vision transformers (ViT)
+- Image patches and visual embeddings
+- Attention in vision models
+- Multimodal models
+- Cross-model attention
+- Image generation
+- Diffusion models
+- Video generation
+
+**Assessment:** Passed ✅
+
+### Key Learning
+
+I learned how computer vision systems process images and videos, classify and detect objects, extract visual features using CNNs, and use vision transformers and attention to analyze visual information. I also learned how multimodal models connect visual information with language, and how diffusion models can generate images and videos from natural language prompts.
