@@ -185,3 +185,51 @@ I learned how AI speech systems convert speech into text and text into natural-s
 ### Key Learning
 
 I learned how computer vision systems process images and videos, classify and detect objects, extract visual features using CNNs, and use vision transformers and attention to analyze visual information. I also learned how multimodal models connect visual information with language, and how diffusion models can generate images and videos from natural language prompts.
+---
+
+## Module 6 — Introduction to AI-Powered Information Extraction Concepts
+
+**Status:** Completed ✅
+
+### Topics Learned
+
+- Information extraction fundamentals
+- OCR (Optical Character Recognition)
+- OCR pipeline
+- Image preprocessing and enhancement
+- Text region detection
+- Character recognition and classification
+- Layout analysis and reading order
+- Field extraction and mapping
+- Key-value pairing
+- Proximity analysis
+- Named Entity Recognition (NER)
+- Table and structured content processing
+- Confidence scoring and validation
+- Cross-field validation
+- Data normalization and standardization
+- Date, currency, numeric, and text normalization
+- Rule-based and statistical validation
+- Schema mapping
+- Database integration
+- API payloads
+- Message queues
+- Business-process integration
+- Quality metrics and error categorization
+- Generative AI for schema-based extraction
+
+### Assessment
+
+✅ Module assessment passed
+
+### Key Learning
+
+I learned how AI-powered information extraction converts unstructured documents into structured business data. I learned how OCR reads text from documents, how field extraction identifies and maps meaningful information, how extracted data is validated and standardized, and how structured data can be integrated into databases, APIs, and business workflows.
+
+### Key Concept
+
+**OCR = Read**
+
+**Information Extraction = Read + Understand + Organize**
+
+**Business Integration = Structured Data → Business System**
